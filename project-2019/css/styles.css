@@ -1,4 +1,4 @@
-body {
+body{
   background-color: grey;
 }
 h1{
@@ -7,9 +7,9 @@ h1{
  text-align: center;
 }
 img{
-  width:600px;
-  height:250px;
-  float:left;
+  width: 600px;
+  height: 250px;
+  float: left;
 }
 
 h3{
@@ -25,4 +25,3 @@ ul{
 link{
  color: black;
 }
-</style>
