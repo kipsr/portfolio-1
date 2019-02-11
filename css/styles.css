@@ -7,19 +7,20 @@ h1{
  text-align: center;
 }
 img{
-  width:550px;
-  height:250px;
-  float:left;
+  width: 550px;
+  height: 250px;
+  float: left;
 }
 h3{
  text-align: center;
 }
 p{
  color:black;
- font-family: inherit;
+ font-family: fantasy;
 }
 link{
- color:inheritblack;
+ color:black;
+ text-align:center;
 }
 h5{
   font-style: italic;
@@ -27,7 +28,7 @@ h5{
   background-color: green;
 }
 p{
-  background-color: inheritdark gray;
+  background-color: grey;
   font-style: italic;
 }
 h6{
@@ -38,5 +39,5 @@ h6{
 p{
   color: black;
   font-style:italic;
-  text-align: center;  
+  text-align: center;
 }
