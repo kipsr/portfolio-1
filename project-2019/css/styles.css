@@ -1,11 +1,13 @@
 body{
-  background-color: grey;
+  background-color:grey;
 }
 h1{
  color:black;
  font-style:italic;
  text-align: center;
 }
+
+
 img{
   width: 600px;
   height: 250px;
