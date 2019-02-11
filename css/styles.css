@@ -19,7 +19,7 @@ p{
  font-family: inherit;
 }
 link{
- color:inheritblack;
+ color:black;
 }
 h5{
   font-style: italic;
@@ -38,5 +38,5 @@ h6{
 p{
   color: black;
   font-style:italic;
-  text-align: center;  
+  text-align: center;
 }
