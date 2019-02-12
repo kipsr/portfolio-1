@@ -1,6 +1,4 @@
-
-#portfolio.
-#### {Brief description of application}, {Date of current version}
+#### More content entailed is about the author.
 #### By **List of contributors**
 By john mwangi.
 Agness
